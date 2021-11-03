@@ -1,5 +1,5 @@
 
-### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and Java.
 - 🔭 I’m currently working on creating webpages and learning how to progam.
